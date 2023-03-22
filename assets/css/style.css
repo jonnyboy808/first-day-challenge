@@ -17,6 +17,7 @@ body {
 
 .header h1 {
     display: inline-block;
+    list-style-type: none;
     font-size: 48px;
 }
 
@@ -37,7 +38,9 @@ body {
 }
 
 .header div ul li {
+    text-align: right;
     display: inline-block;
+    list-style: none;
     margin-left: 25px;
 }
 
