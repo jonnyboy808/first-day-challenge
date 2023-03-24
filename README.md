@@ -16,6 +16,12 @@ N/A
 
 You can use this site to fiund out information on specific topics. You may also use the header withing this site to quickly navigate to the specific sections of the website quickly.
 
+Examples of refactored code:
+![Example of refactored HTML code](assets/images/html_code.png)
+
+![Example of refactored CSS code](assets/images/css_code.png)
+
+
 ## Credits
 
 N/A
